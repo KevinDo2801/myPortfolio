@@ -5,8 +5,7 @@ export default function Home() {
     <section className="home" id="home">
         <div className="home__main">    
             <div className="home__info">    
-                <h1 className="home__title">Front - End Web</h1>
-                <h1 className="home__title">Developer👌</h1>
+                <h1 className="home__title">Front - End Web Developer👌</h1>
                 <p className="home__descriptive">Hey there, I'm Kevin Do, a Front-end Developer in sunny Tampa, Florida 🌞. I'm all about turning code into captivating web experiences. Let's dive into the world of web enchantment! 💻</p>
                 <div className="home__icon__profile">
                     <a target="_blank" href="https://www.linkedin.com/in/kevindo2801/"><i className="fab fa-linkedin"></i> </a>
