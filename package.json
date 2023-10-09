@@ -1,6 +1,8 @@
 {
   "name": "project",
   "dependencies": {
+    "jquery": "^3.7.1",
+    "owl.carousel": "^2.3.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-router-dom": "6.4.4",

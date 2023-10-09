@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import data from "../data_projects";
+import 'jquery';
 import "../OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css"
 import "../OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css"
 
