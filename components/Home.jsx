@@ -19,12 +19,12 @@ export default function Home() {
         <div className="home__tech">
             <span>Tech Stack</span>
             <span>|</span>
-            <img src="../assets/HTML5_Badge.png" alt="html" />
-            <img src="../assets/css_Badge.png" alt="css" />
-            <img src="../assets/js_Badge.png" alt="js" />
-            <img src="../assets/React-icon.png" alt="react" />
-            <img src="../assets/tailwind-css.png" alt="tailwind" />
-            <img src="../assets/scss_Badge.png" alt="scss" />
+            <img src="./public/HTML5_Badge.png" alt="html" />
+            <img src="./public/css_Badge.png" alt="css" />
+            <img src="./public/js_Badge.png" alt="js" />
+            <img src="./public/React-icon.png" alt="react" />
+            <img src="./public/tailwind-css.png" alt="tailwind" />
+            <img src="./public/scss_Badge.png" alt="scss" />
         </div>
     </section>
   );
