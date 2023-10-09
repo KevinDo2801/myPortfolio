@@ -289,8 +289,7 @@ header {
     }
 
     .home {
-        margin: 5em 2em;
-        margin-bottom: 10em;
+        margin: 5em 0em 10em;
     }
 
     .home__avatar {
@@ -300,6 +299,10 @@ header {
 
     .home__info {
         grid-area: information;
+    }
+
+    .home__tech {
+        width: 80%;
     }
 }
 
