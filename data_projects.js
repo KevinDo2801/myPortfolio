@@ -1,7 +1,7 @@
 export default [
     {
         id: 1,
-        web: "https://ornate-crisp-7ab95a.netlify.app/",
+        web: "https://hike-finder-react.netlify.app/",
         img: "HikeFinder.png",
         alt: "Hike Finder",
         title: "HIKE FINDER🌄",
@@ -11,7 +11,7 @@ export default [
     },
     {
         id: 2,
-        web: "https://fanciful-kitsune-30bae7.netlify.app/",
+        web: "https://vanlife-unique-react.netlify.app/",
         img: "VanLife.png",
         alt: "Van Life",
         title: "Van Life🚐",
@@ -21,7 +21,7 @@ export default [
     },
     {
         id: 3,
-        web: "https://lively-cannoli-260eeb.netlify.app/#",
+        web: "https://massive-sass.netlify.app/",
         img: "MassiveHome.png",
         alt: "Massive",
         title: "Massive💡",
@@ -81,7 +81,7 @@ export default [
     },
     {
         id: 9,
-        web: "https://bejewelled-maamoul-4d6f64.netlify.app/",
+        web: "https://quizzicalreact.netlify.app/",
         img: "Quizzical.png",
         alt: "Quizzical",
         title: "Quizzical❓",
