@@ -6,7 +6,7 @@ export default function Projects() {
 
   const image = (project)=>(
     <a target="_blank" href={project.web} className="image">
-      <img src={`../assets/${project.img}`} alt={project.alt} />
+      <img src={`./${project.img}`} alt={project.alt} />
     </a>
   )
 

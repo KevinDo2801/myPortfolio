@@ -36,7 +36,7 @@ export default function AnotherProjects() {
       <div className="another_portfolio owl-carousel owl-theme">
         {anotherProjects.map((project) => (
           <a target="_blank" href={project.web} className="portfolio__selection item" key={project.id}>
-            <img src={`../assets/${project.img}`} alt={project.alt} className="portfolio__img" />
+            <img src={`./${project.img}`} alt={project.alt} className="portfolio__img" />
           </a>
         ))}
       </div>
