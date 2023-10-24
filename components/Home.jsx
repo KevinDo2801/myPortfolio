@@ -13,7 +13,7 @@ export default function Home() {
                 </div>
             </div>
             <div className="home__avatar">
-                <img src="./public/main_avatar.png" alt="my avatar" />
+                <img src="./main_avatar.png" alt="my avatar" />
             </div>
         </div>
         <div className="home__tech">
