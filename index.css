@@ -302,7 +302,7 @@ header {
     }
 
     .home__tech {
-        width: 80%;
+        width: 100%;
     }
 }
 
@@ -480,6 +480,13 @@ header {
     opacity: .5;
 }
 
+
+@media screen and (max-width: 560px) {
+    .another_portfolio .portfolio__img {
+        height: 40%;
+    }
+}
+
 /* Contact */
 .contact {
     margin-bottom: 15em;
@@ -550,6 +557,7 @@ footer {
 
 @media screen and (max-width: 560px) {
     .footer__content {
+        font-size: .8rem;
         display: block;
         text-align: center;
     }
